@@ -1,0 +1,44 @@
+{
+  "id": "2440459",
+  "name": "vue3.0图书管理端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19594592",
+      "name": "左箭头",
+      "font_class": "left-arrow",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "8705003",
+      "name": "MBE风格多色图标-购物车",
+      "font_class": "MBEfenggeduosetubiao-gouwuche",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "16395337",
+      "name": "首页",
+      "font_class": "biaoqiankuozhan_shouye-291",
+      "unicode": "eb94",
+      "unicode_decimal": 60308
+    },
+    {
+      "icon_id": "16401934",
+      "name": "分类",
+      "font_class": "biaoqiankuozhan_fenlei-382",
+      "unicode": "ebef",
+      "unicode_decimal": 60399
+    },
+    {
+      "icon_id": "18537067",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
